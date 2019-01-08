@@ -4,16 +4,9 @@
     <list default="true" id="75dee3d6-67c3-44e9-a157-9607945ee613" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules/NumbersToWords.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/NumbersToWords.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$016f2f2ebe4bb83c8d7a$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0ba4ed4519ade1284805$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6fec73c064401e7c79a1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/NumbersToWords.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/NumbersToWords.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/NumbersToWordsSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/NumbersToWordsSpec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$$anon$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$$anonfun$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/NumbersToWords.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/numberstowords$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/numberstowords$sources/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/numberstowords$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/numberstowords$sources/0.1/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-compile-internal.xml" afterDir="false" />
@@ -27,10 +20,6 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-scala-tool.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-numberstowords$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/NumbersToWordsSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/NumbersToWordsSpec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/NumbersToWordsSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+            <state relative-caret-position="615">
+              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -62,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/NumbersToWords.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="72" column="45" lean-forward="true" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
+            <state relative-caret-position="632">
+              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
             </state>
           </provider>
         </entry>
@@ -96,6 +85,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,8 +129,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,18 +218,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_Tests - 2019.01.08 at 15h 48m 18s.xml">
-      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="All_Tests - 2019.01.08 at 16h 14m 21s.xml">
-      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="All_Tests - 2019.01.08 at 16h 15m 24s.xml">
-      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="All_Tests - 2019.01.08 at 16h 19m 40s.xml">
-      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="All_Tests - 2019.01.08 at 16h 19m 49s.xml">
       <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -250,12 +227,32 @@
     <history-entry file="All_Tests - 2019.01.08 at 16h 22m 28s.xml">
       <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="All_Tests - 2019.01.08 at 16h 24m 22s.xml">
+      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Tests - 2019.01.08 at 16h 26m 29s.xml">
+      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Tests - 2019.01.08 at 16h 38m 39s.xml">
+      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Tests - 2019.01.08 at 16h 38m 56s.xml">
+      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Tests - 2019.01.08 at 16h 39m 15s.xml">
+      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Tests - 2019.01.08 at 16h 42m 30s.xml">
+      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Tests - 2019.01.08 at 16h 43m 20s.xml">
+      <configuration name="All Tests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,7 +261,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,12 +292,6 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/NumbersToWords.scala</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -329,15 +320,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala" />
     <entry file="file://$PROJECT_DIR$/src/test/scala/NumbersToWordsSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+        <state relative-caret-position="615">
+          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="96" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/NumbersToWords.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="72" column="45" lean-forward="true" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
+        <state relative-caret-position="632">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
         </state>
       </provider>
     </entry>

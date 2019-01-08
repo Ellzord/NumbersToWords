@@ -63,15 +63,17 @@ object NumbersToWords {
   private def by00(by: Int, first000: Boolean) = new PartialFunction[Int, String] {
     def isDefinedAt(num: Int): Boolean = num >= by
 
-    def apply(num: Int): String =
+    def apply(num: Int): String = {
+      val padOrAnd: String = if (first000) " " else " and "
       UnderHundred(num / by) + " hundred" + (num % by match {
         case 0 => ""
-        case x if Singles.isDefinedAt(x) => (if (first000) " " else " and ") + Singles(x)
-        case 10 => (if (first000) " " else " and ") + Tens(10)
-        case x if Teens.isDefinedAt(x) => (if (first000) " " else " and ") + Teens(x)
+        case x if Singles.isDefinedAt(x) => padOrAnd + Singles(x)
+        case 10 => padOrAnd + Tens(10)
+        case x if Teens.isDefinedAt(x) => padOrAnd + Teens(x)
         case x if Tens.isDefinedAt(x) => " " + Tens(x)
         case x => " and " + TensAndSingles(x)
       })
+    }
   }
 
   private def by000(by: Int, byStr: String, under: PartialFunction[Int, String]) = new PartialFunction[Int, String] {
