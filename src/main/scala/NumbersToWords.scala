@@ -66,9 +66,10 @@ object NumbersToWords {
     def apply(num: Int): String =
       UnderHundred(num / by) + " hundred" + (num % by match {
         case 0 => ""
-        case x if x < 10 => (if (first000) " " else " and ") + Singles(x)
+        case x if Singles.isDefinedAt(x) => (if (first000) " " else " and ") + Singles(x)
         case 10 => (if (first000) " " else " and ") + Tens(10)
-        case x if x % 10 == 0 => " " + Tens(x)
+        case x if Teens.isDefinedAt(x) => (if (first000) " " else " and ") + Teens(x)
+        case x if Tens.isDefinedAt(x) => " " + Tens(x)
         case x => " and " + TensAndSingles(x)
       })
   }

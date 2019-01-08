@@ -73,6 +73,7 @@ class NumbersToWordsSpec extends FlatSpec with Matchers {
     NumbersToWords(104030506) should be("one hundred four million thirty thousand five hundred and six")
     NumbersToWords(121121) should be("one hundred and twenty-one thousand one hundred and twenty-one")
     NumbersToWords(999999999) should be("nine hundred and ninety-nine million nine hundred and ninety-nine thousand nine hundred and ninety-nine")
+    NumbersToWords(121212) should be("one hundred and twenty-one thousand two hundred and twelve")
   }
 
   it should "not support minus numbers or over 999,999,999" in {
